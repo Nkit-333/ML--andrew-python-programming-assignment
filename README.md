@@ -28,7 +28,7 @@ foo@bar:~$ pip install jupyterlab
 Then clone my Repo where ever you want to clone it, <directory> is the destination.
   
 ```console
-foo@bar:~$ git clone https://github.com/XXDIL/ML-Andrew-Ng-Python- <directory>
+foo@bar:~$ git clone https://github.com/Nkit-333/ML--andrew-python-programming-assignment.git- <directory>
 ```
 
 To run the Notebook fire the following command, this will open up the browser with your your local files
@@ -55,27 +55,27 @@ There are a few differences between the Octave Arrays and the ones in NumPy Pyth
     >>> (2, )
     ```
 ## Contents
-#### [Exercise 1](https://github.com/XXDIL/ML-Andrew-Ng-Python-/tree/master/Exercise1)
+#### [Exercise 1](https://github.com/Nkit-333/ML--andrew-python-programming-assignment/tree/master/Exercise1)
 * Linear Regression
 * Linear Regression with multiple variables
-#### [Exercise 2](https://github.com/XXDIL/ML-Andrew-Ng-Python-/tree/master/Exercise2)
+#### [Exercise 2](https://github.com/Nkit-333/ML--andrew-python-programming-assignment/tree/master/Exercise2)
 * Logistic Regression
 * Logistic Regression with Regularization
-#### [Exercise 3](https://github.com/XXDIL/ML-Andrew-Ng-Python-/tree/master/Exercise3)
+#### [Exercise 3](https://github.com/Nkit-333/ML--andrew-python-programming-assignment/tree/master/Exercise3)
 * Multiclass Classification
 * Neural Networks Prediction fuction
-#### [Exercise 4](https://github.com/XXDIL/ML-Andrew-Ng-Python-/tree/master/Exercise4)
+#### [Exercise 4](https://github.com/Nkit-333/ML--andrew-python-programming-assignment/tree/master/Exercise4)
 * Neural Networks Learning
-#### [Exercise 5](https://github.com/XXDIL/ML-Andrew-Ng-Python-/tree/master/Exercise5)
+#### [Exercise 5](https://github.com/Nkit-333/ML--andrew-python-programming-assignment/tree/master/Exercise5)
 * Regularized Linear Regression
 * Bias vs. Variance
-#### [Exercise 6](https://github.com/XXDIL/ML-Andrew-Ng-Python-/tree/master/Exercise6)
+#### [Exercise 6](https://github.com/Nkit-333/ML--andrew-python-programming-assignment/tree/master/Exercise6)
 * Support Vector Machine (SVM)
 * Spam Classifacation
-#### [Exercise 7](https://github.com/XXDIL/ML-Andrew-Ng-Python-/tree/master/Exercise7)
+#### [Exercise 7](https://github.com/Nkit-333/ML--andrew-python-programming-assignment/tree/master/Exercise7)
 * K-means Clustering
 * Principal Component Analysis (PCA)
-#### [Exercise 8](https://github.com/XXDIL/ML-Andrew-Ng-Python-/tree/master/Exercise8)
+#### [Exercise 8](https://github.com/Nkit-333/ML--andrew-python-programming-assignment/tree/master/Exercise8)
 * Anomaly Detection
 * Recommender Systems
 
