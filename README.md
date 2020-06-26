@@ -118,4 +118,4 @@ There are a few differences between the Octave Arrays and the ones in NumPy Pyth
   
   
 ## Solutions
-You can check out my implementation of the assignments [here](https://github.com/XXDIL/ML-Andrew-Ng-Python)
+You can check out my implementation of the assignments [here](https://github.com/Nkit-333/ML--andrew-python-programming-assignment)
